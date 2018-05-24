@@ -1,0 +1,14 @@
+
+/* CONTACT */
+
+/********************/
+/* Versions mobiles */
+/********************/
+
+@media (max-width: 780px)
+{
+    *{ box-sizing: border-box; }
+    .panel-default:nth-child(1){
+        margin-top: 260px;
+    }
+}
