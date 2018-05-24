@@ -1,0 +1,5 @@
+#netbeans specific
+model/Manager.php
+nbproject/*
+!nbproject/project.properties
+!nbproject/project.xml
